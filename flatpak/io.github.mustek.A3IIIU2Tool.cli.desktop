@@ -1,0 +1,9 @@
+[Desktop Entry]
+Name=Mustek ScanExpress A3 USB PRO (CLI)
+Comment=Scan from the command line with the Mustek ScanExpress A3 USB PRO flatbed scanner
+Exec=mustek-cli
+Icon=io.github.mustek.A3IIIU2Tool
+Terminal=true
+Type=Application
+Categories=Graphics;Utility;
+Keywords=scanner;mustek;scan;flatbed;cli;

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component type="desktop-application">
+  <id>io.github.mustek.A3IIIU2Tool</id>
+  <name>Mustek ScanExpress A3 USB PRO</name>
+  <summary>Scan with the Mustek ScanExpress A3 USB PRO flatbed scanner</summary>
+  <metadata_license>MIT</metadata_license>
+  <project_license>MIT</project_license>
+  <description>
+    <p>
+      A command-line and graphical tool for the Mustek ScanExpress A3 USB PRO
+      flatbed scanner. It talks to the scanner directly over USB with no
+      proprietary drivers required.
+    </p>
+    <p>Features:</p>
+    <ul>
+      <li>Full A3 scanning at up to the scanner's native resolution</li>
+      <li>Color (24/48-bit) and grayscale (8/16-bit) modes</li>
+      <li>Adjustable scan window and top trim</li>
+      <li>PNG, JPEG and multi-page TIFF output</li>
+    </ul>
+  </description>
+  <launchable type="desktop-id">io.github.mustek.A3IIIU2Tool.desktop</launchable>
+  <url type="homepage">https://github.com/jgroman/mustek-a3iiiu2-tool</url>
+  <content_rating type="oars-1.1"/>
+  <releases>
+    <release version="0.1.0" date="2026-10-11"/>
+  </releases>
+</component>

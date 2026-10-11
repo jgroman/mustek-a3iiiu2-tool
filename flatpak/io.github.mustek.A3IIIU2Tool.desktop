@@ -1,0 +1,9 @@
+[Desktop Entry]
+Name=Mustek ScanExpress A3 USB PRO
+Comment=Scan with the Mustek ScanExpress A3 USB PRO flatbed scanner
+Exec=mustek-gui
+Icon=io.github.mustek.A3IIIU2Tool
+Terminal=false
+Type=Application
+Categories=Graphics;Utility;
+Keywords=scanner;mustek;scan;flatbed;
